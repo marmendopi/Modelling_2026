@@ -12,3 +12,4 @@
 - explian how to import 
 - added __name__ == "__main__" to guard againts import runs
 - sorted list of color points 
+- added type checks for x and y 
